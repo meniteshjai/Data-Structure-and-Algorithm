@@ -15,4 +15,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+## String
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
