@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [1108-defanging-an-ip-address](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 ## Greedy
 |  |
 | ------- |
