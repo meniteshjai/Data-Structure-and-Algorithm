@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
@@ -58,4 +59,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
