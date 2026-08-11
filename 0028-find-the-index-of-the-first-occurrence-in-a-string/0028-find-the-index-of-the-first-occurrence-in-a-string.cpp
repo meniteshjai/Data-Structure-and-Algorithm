@@ -6,6 +6,9 @@ public:
         // int index=haystack.find(needle);
         // return index;
 
+        // by two pointer
+
+        
         int id=-1;
         int i=0;
         int j=0;
