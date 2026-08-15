@@ -6,11 +6,11 @@ public:
         for(int i=0;i<s.size();i++){
             if(s[i]=='('){
                 count++;
-                ans=max(ans,count);
             }
             else if(s[i]==')'){
                 count--;
             }
+            ans=max(ans,count);
         }
         return ans;
     }
