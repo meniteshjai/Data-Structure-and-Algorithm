@@ -13,7 +13,7 @@ public:
         for(int i=0;i<s.size();i++){
             if(rotate(s)==goal){
                 ans=true;
-                break;
+            //    break;
             }
         }
         return ans;
