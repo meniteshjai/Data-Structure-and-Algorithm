@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
