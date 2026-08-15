@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0409-longest-palindrome) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2785-sort-vowels-in-a-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
