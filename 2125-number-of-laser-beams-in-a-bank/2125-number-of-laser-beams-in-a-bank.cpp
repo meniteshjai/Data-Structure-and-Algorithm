@@ -20,7 +20,7 @@ public:
         
         for(int i=0;i<ans.size();i++){
             if(ans[i] !=0){
-                res+=prev*ans[i];
+                res=res+prev*ans[i];
                 prev=ans[i];
             }
         }
