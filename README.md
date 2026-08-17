@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
