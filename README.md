@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0686-repeated-string-match](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
+| [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2785-sort-vowels-in-a-string) |
@@ -74,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 ## Array
 |  |
@@ -167,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
