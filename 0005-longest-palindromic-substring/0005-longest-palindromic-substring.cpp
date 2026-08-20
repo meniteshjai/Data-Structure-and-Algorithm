@@ -1,7 +1,6 @@
 class Solution {
 public:
     string check(string& s,int i,int j){
-  
         while(i>=0 && j<s.length() && s[i]==s[j]){
             i--;
             j++;
@@ -12,10 +11,13 @@ public:
     }
     string longestPalindrome(string s) {
         string ans="";
+
         for(int centre=0;centre<s.size();centre++){
+            
             string odd=check(s,centre,centre);
             
             string even="";
+
             if(centre+1<s.size()){
                 even=check(s,centre,centre+1);
             }
