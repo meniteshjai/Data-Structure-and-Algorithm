@@ -13,7 +13,7 @@ public:
             }
             else{
                 if(pre==0){
-                    lps[suff]=0;
+                //    lps[suff]=0;
                     suff++;
                 }
                 else{
