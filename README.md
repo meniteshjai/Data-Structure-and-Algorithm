@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1392-longest-happy-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -108,18 +109,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -185,8 +189,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
