@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0443-string-compression) |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
