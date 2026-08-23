@@ -6,8 +6,10 @@ public:
             return ;
         }
         int n=nums[index];
+        // include
         output.push_back(n);
         solve(nums,index+1,output,ans);
+        //exclude
         output.pop_back();
         solve(nums,index+1,output,ans);
 
