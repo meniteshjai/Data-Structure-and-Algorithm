@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
@@ -195,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1392-longest-happy-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
