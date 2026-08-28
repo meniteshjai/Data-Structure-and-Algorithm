@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
