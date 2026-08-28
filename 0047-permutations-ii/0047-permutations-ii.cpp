@@ -1,8 +1,8 @@
 class Solution {
 public:
-    void permutation(vector<vector<int>>&ans,vector<int>& nums,int i){
+    void permutation(set<vector<int>>&ans,vector<int>& nums,int i){
         if(i>=nums.size()){
-            ans.push_back(nums);
+            ans.insert(nums);
             return ;
         }
         for(int j=i;j<nums.size();j++){
@@ -12,19 +12,9 @@ public:
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<vector<int>>ans;
-        vector<vector<int>>ans1;
+        set<vector<int>>ans;
         permutation(ans,nums,0);
-        sort(ans.begin(),ans.end());
-        
-        ans1.push_back(ans[0]);
-        int i=1;
-        while(i<ans.size()){
-           if(ans1.back()!=ans[i]){
-            ans1.push_back(ans[i]);
-           }
-           i++;
-        }
+        vector<vector<int>>ans1(ans.begin(),ans.end());
         return ans1;
     }
 };
