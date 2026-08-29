@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Enumeration
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
@@ -212,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
