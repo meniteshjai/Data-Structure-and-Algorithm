@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
