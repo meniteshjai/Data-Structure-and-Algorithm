@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
+| [0445-add-two-numbers-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Recursion
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
