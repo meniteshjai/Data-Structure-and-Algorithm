@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0037-sudoku-solver) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Enumeration
 |  |
