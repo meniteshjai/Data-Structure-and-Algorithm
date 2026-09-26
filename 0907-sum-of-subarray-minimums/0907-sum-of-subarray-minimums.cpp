@@ -38,8 +38,8 @@ public:
             long long left=i-previ;
             long long right=nexti-i;
             long long number=(left*right)%mod;
-            long long total=(number * arr[i])%mod;
-            sum=(sum + total)%mod;
+            long long total=(number*arr[i])%mod;
+            sum=(sum+total)%mod;
         }
         return sum;
     }
