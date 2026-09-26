@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
+| [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 ## Manacher
 |  |
 | ------- |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
