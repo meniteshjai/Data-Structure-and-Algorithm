@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -303,6 +305,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
