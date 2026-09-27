@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
 | [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2104-sum-of-subarray-ranges](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -302,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
