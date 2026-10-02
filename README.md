@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0767-reorganize-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
