@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0539-minimum-time-difference) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/meniteshjai/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
